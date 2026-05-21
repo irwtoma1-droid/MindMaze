@@ -1,6 +1,7 @@
-npm install
-
-npm run build
+```Bash
+$ npm install
+$ npm run build
+```
 
 # Existing deployed app
 
