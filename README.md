@@ -1,4 +1,5 @@
 npm install
+
 npm run build
 
 # Existing deployed app
